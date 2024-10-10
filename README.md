@@ -1,5 +1,5 @@
 
-# Command Line Processor with DDL Support
+# C++ Based DDL Interpreter for Database Management System
 
 This project is a command-line processor that interprets Data Definition Language (DDL) statements for a database-like environment. It provides functionality to create, manage, and manipulate tables and records through user-supplied commands.
 
