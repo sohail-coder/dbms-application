@@ -21,11 +21,11 @@ This project is a command-line processor that interprets Data Definition Languag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/command-line-ddl.git
+   https://github.com/sohail-coder/dbms-application.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd command-line-ddl
+   cd dbms-application
    ```
 3. Compile the program using a C++ compiler:
    ```bash
